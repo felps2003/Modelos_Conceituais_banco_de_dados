@@ -1,2 +1,2 @@
 
-![Modelo Conceitual Loja de Jogos](https://user-images.githubusercontent.com/101263522/169715741-b1a11181-a8a8-416a-8985-17b52fb0c508.png)
+![LojaDeJogos](https://user-images.githubusercontent.com/101263522/170893684-0e54f114-3e45-4410-a6a9-02c36367560e.png)
